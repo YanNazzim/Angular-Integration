@@ -1,1 +1,1 @@
-# GP-angular-integration
+# Angular-intergation
